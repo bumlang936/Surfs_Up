@@ -7,8 +7,10 @@ The purpose of this analysis was to gather temperature data for the months of De
 ## Results
 
 June temperature statistics:
+
 ![june temps](https://user-images.githubusercontent.com/75760493/112801289-54c89f80-9036-11eb-81d6-ea59ab7b6865.PNG)
 
 
 December temperature statistics:
+
 ![december temps](https://user-images.githubusercontent.com/75760493/112801276-4da19180-9036-11eb-9c17-f6bbc9b36108.PNG)

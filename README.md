@@ -5,6 +5,7 @@ The purpose of this analysis was to gather temperature data for the months of De
 
 
 ## Results
+Below are the temperature statistics for the months of June and December.
 
 June temperature statistics:
 
